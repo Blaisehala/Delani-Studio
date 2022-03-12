@@ -19,3 +19,9 @@ background-image: url(/images/firstdownload.jpg);
   background-image: url(/images/midlaptop.jpg);
   height: 50vh;
 }
+
+.contactus{
+  background-image: url(/images/contact.jpg);
+  height: 70vh;
+  background-size: cover;
+}
