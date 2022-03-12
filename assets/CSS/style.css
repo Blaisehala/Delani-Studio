@@ -48,4 +48,18 @@ textarea{
 
 .icons{
   width: 95vw;
+  
+}
+
+
+.design{
+  display: none;
+}
+
+.kiki{
+  cursor: pointer;
+}
+
+.kiki:hover{
+  color: blue;
 }
