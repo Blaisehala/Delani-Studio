@@ -51,7 +51,7 @@ textarea{
   
 }
 
-
+ /* DESIGN */
 .design{
   display: none;
 }
@@ -61,5 +61,36 @@ textarea{
 }
 
 .kiki:hover{
+  color: blue;
+}
+
+
+
+/* DEVELOPMENT */
+
+.dvlp{
+  display: none;
+}
+
+.development{
+  cursor: pointer;
+}
+
+.development:hover{
+  color: blue;
+}
+
+
+/* PRODUCT MANAGEMENT */
+
+.product{
+  display: none;
+}
+
+.management{
+  cursor: pointer;
+}
+
+.management:hover{
   color: blue;
 }
