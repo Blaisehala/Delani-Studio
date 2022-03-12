@@ -10,3 +10,12 @@
 background-image: url(/images/firstdownload.jpg);
 
 }
+
+.aboutus{
+  height: 40vh;
+}
+
+.services{
+  background-image: url(/images/midlaptop.jpg);
+  height: 50vh;
+}
