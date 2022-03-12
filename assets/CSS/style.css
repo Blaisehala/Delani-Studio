@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+p{
+  font-size: 1.1em;
+  font-weight: 400;
+}
 .firstsection{
   height: 100vh;
 background-image: url(/images/firstdownload.jpg);
