@@ -30,12 +30,13 @@ function message (){
   var name = document.getElementById('name');
   var email = document.getElementById('email');
   var msg = document.getElementById('msg');
+  var x = document.getElementById('para');
 
 
   if (name.value === "" || msg.value === '') {
     alert('please leave a message')
   } else {
-    alert('Thank you for your message')
+    x.innerText = (`${[name.value]} we have received your message.Thank you for reaching out to us`)
   }
 }
 
