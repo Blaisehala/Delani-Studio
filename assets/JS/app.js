@@ -18,6 +18,26 @@ $('.management').click(()=>{
 });
 
 
+$('.scale-item').hover(function(){
+  $(this).find('.boat-title').fadeIn(300)
+}, function(){
+  $(this).find('.boat-title').fadeOut(100)
+});
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 });
 
@@ -50,3 +70,5 @@ form.addEventListener('click', function(event){
   message();
   
   });
+
+  

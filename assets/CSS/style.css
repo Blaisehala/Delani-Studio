@@ -94,3 +94,41 @@ textarea{
 .management:hover{
   color: blue;
 }
+
+/* RESULTS BOARD */
+
+#para{
+  font-size: 2em;
+
+}
+
+
+
+  /* HOVER STYLING */
+.boat-title{
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  height: 70%;
+  width: 50%;
+  text-align: center;
+  /*opacity: 0;*/
+  display: none; /* comment this out for CSS hover */
+  background-color:transparent;
+  color: aliceblue;
+
+}
+
+.boat-title h3{
+  position: absolute;
+      color: #fff;
+      top: 33%;
+      width: 100%;
+      text-align: center;
+
+}
+
+
+.scale-item:hover .boat-title {
+  opacity: 1
+}
