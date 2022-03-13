@@ -10,7 +10,7 @@ p{
 }
 .firstsection{
   height: 100vh;
-background-image: url(./images/firstdownload.jpg);
+background-image: url(/images/firstdownload.jpg);
 background-size: cover;
 
 }
@@ -20,13 +20,13 @@ background-size: cover;
 }
 
 .services{
-  background-image: url(./images/midlaptop.jpg);
+  background-image: url(/images/midlaptop.jpg);
   height: 50vh;
   background-size: cover;
 }
 
 .contactus{
-  background-image: url(./images/contact.jpg);
+  background-image: url(/images/contact.jpg);
   height: 70vh;
   background-size: cover;
 }

@@ -27,18 +27,6 @@ $('.scale-item').hover(function(){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 });
 
 
