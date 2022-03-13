@@ -106,29 +106,40 @@ textarea{
 
   /* HOVER STYLING */
 .boat-title{
+  border-style:solid ;
+  border-color: white;
   position: absolute;
-  top: 10%;
-  left: 25%;
-  height: 70%;
-  width: 50%;
+  top: 8%;
+  left: 20%;
+  height: 80%;
+  width: 60%;
   text-align: center;
   /*opacity: 0;*/
-  display: none; /* comment this out for CSS hover */
-  background-color:transparent;
-  color: aliceblue;
+  /* display: none;  */
+  background-color:black;
+  color: black;
 
 }
 
 .boat-title h3{
   position: absolute;
-      color: #fff;
+      color:white;
+      font-weight: bolder;
       top: 33%;
       width: 100%;
       text-align: center;
+      font-size: 2em;
+
 
 }
 
 
 .scale-item:hover .boat-title {
-  opacity: 1
+  opacity:0.6;
 }
+
+
+/* .scale-item:hover h3{
+  color: blue;
+  opacity:1,3;
+} */
