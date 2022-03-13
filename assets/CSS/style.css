@@ -115,7 +115,7 @@ textarea{
   width: 60%;
   text-align: center;
   /*opacity: 0;*/
-  /* display: none;  */
+  display: none; 
   background-color:black;
   color: black;
 
