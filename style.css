@@ -110,14 +110,15 @@ textarea{
   border-color: white;
   position: absolute;
   top: 8%;
-  left: 20%;
+  left: 10%;
   height: 80%;
-  width: 60%;
+  width: 80%;
   text-align: center;
   /*opacity: 0;*/
   display: none; 
   background-color:black;
   color: black;
+  /* padding: 20px; */
 
 }
 
